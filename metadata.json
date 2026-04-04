@@ -1,0 +1,5 @@
+{
+  "name": "Remix: ArmorClaw Financial Trading System",
+  "description": "A delegation-safe multi-agent system for financial trading with intent enforcement and policy-driven safety.",
+  "requestFramePermissions": []
+}
